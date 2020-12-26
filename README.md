@@ -1,8 +1,6 @@
 # Live Previews: 
 ## https://yogaarmdhn.github.io/TUBES2_ITW_203040112/
-
-
-
+<br>
 
 <p align="center">
   <a href="https://getbootstrap.com/">
