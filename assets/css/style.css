@@ -1,0 +1,40 @@
+@font-face {
+    font-family: heavitas;
+    src: url(../fonts/Heavitas.ttf);
+}
+
+.jumbotron {
+    position: relative;
+    background: url(../img/jumbotron.jpg);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding: 250px 0 200px;
+}
+
+.navbar {
+    transition: all 0.3s ease;
+}
+
+.navbar.sticky {
+    padding: 30px 0;
+}
+
+ul li {
+    padding-bottom: 20px;
+}
+
+.anchor {
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin-top: -50px;
+}
+
+.anchor-2 {
+    padding-top: 30px;
+    margin-top: -50px;
+}
+
+.list-group .list-group-item a {
+    text-decoration: none;
+}
