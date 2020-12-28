@@ -1,3 +1,15 @@
-framework : https://getbootstrap.com/
-fonts : https://www.dafont.com/heavitas.font
-icons : https://icons.getbootstrap.com/
+assets
+FRAMEWORK
+    Bootstrap : https://getbootstrap.com/
+
+IMG
+    PICT
+        jumbotron.png : Property of Yoga Bagja Ramadhan
+
+    ICONS
+        instagram.svg : https://icons.getbootstrap.com/icons/instagram/
+        twitter.svg : https://icons.getbootstrap.com/icons/twitter/
+        github.svg : https://icons.getbootstrap.com/icons/github/
+
+FONT
+    Heavitas.ttf : https://www.dafont.com/heavitas.font
